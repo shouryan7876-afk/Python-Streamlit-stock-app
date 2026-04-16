@@ -101,7 +101,7 @@ This project is open-source and available for free use.
 
 ## 🙋‍♂️ Author
 
-Developed by *Your Name*
-(Replace with your name and GitHub profile)
+Developed by Shouryan
+
 
 ---
